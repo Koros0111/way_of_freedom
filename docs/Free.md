@@ -934,3 +934,9 @@ https://x.com/021amirparsa/status/1896960083411763706
 
 ⭐ گیتهاب: http://1da.ir/OM0agyCN
 
+## ساب لینک کانفیگ های متفاوت🥰🫶
+
+ساب لینک کانفیگ های متفاوت🥰🫶
+قابل استفاده همه کلاینت ها👍
+
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/subscribe/layers/ipv4

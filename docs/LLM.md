@@ -126,3 +126,13 @@ Crawl a site to generate knowledge files to create your own custom GPT from one 
 
 https://github.com/BuilderIO/gpt-crawler
 
+
+## google
+
+گوگل روزانه ۱ میلیون توکن رایگان برای استفاده از API های Gemini بهتون میده، توی مدل جدید 2.5 ولی به ۲۵ درخواست در روز محدود هست، میتونید واسه کارهای سنگین‌تر ازش استفاده کنید.
+من نمیگم ولی بعضی‌ها با اکانت‌های مختلف چند تا کلید API باهاش میسازن.
+
+![pic](https://pbs.twimg.com/media/GnwrM3dWYAAsEGD?format=png&name=small)
+
+
+https://x.com/MrSoroushAhmadi/status/1908448978997223915

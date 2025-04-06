@@ -1238,3 +1238,19 @@ https://t.me/sixtininelearn
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6vZd5B_uT4s?si=KGKWucID23I7Vyjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## OpenConnect VPN
+
+ آموزش نصب و کانفیگ OpenConnect VPN به صورت مستقیم و تانل
+
+🔸بعد تعطیلات با یک ویدیو خوب در خدمت شما هستیم و امیدواریم از این آموزش لذت ببرید.
+
+🔗 تماشا ویدیو در یوتیوب 👇👇
+https://youtu.be/7AHmr2dhQks
+🔥🔥
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7AHmr2dhQks?si=oEyYxAr0Y3GZXQ_l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+![pic](https://pbs.twimg.com/media/GnyNvyDXoAA0tkI?format=jpg&name=small)
+

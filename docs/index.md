@@ -1077,6 +1077,34 @@
             </header>
         </article>
     </a>
+    <a href="FAQ" class="post">
+        <article class="hentry">
+            <header class="entry-header">
+                <div class="entry-thumbnail">
+                    <img alt="FAQ"
+                        src="https://www.chapmatin.com/wp-content/uploads/2019/04/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%AA%D8%AF%D8%A7%D9%88%D9%84.png" />
+                </div>
+                <h2 class="my_title">سوالات متداول</h2>
+                <p class="my_text">
+                    سوالات متداول در مورد فیلترشکن
+                </p>
+            </header>
+        </article>
+    </a>
+    <a href="Iran" class="post">
+        <article class="hentry">
+            <header class="entry-header">
+                <div class="entry-thumbnail">
+                    <img alt="Iran"
+                        src="https://mysmartgene.com/blog/wp-content/uploads/elementor/thumbs/Iranian-ethnic-groups-qgnmtgkqrfda6kr2z66v2b6d1b3a3wjriv2sam2f1c.webp" />
+                </div>
+                <h2 class="my_title">قوم های ایرانی</h2>
+                <p class="my_text">
+                    اطلاعات در مورد قوم های ایران
+                </p>
+            </header>
+        </article>
+    </a>
     <a href="Film" class="post">
         <article class="hentry">
             <header class="entry-header">
